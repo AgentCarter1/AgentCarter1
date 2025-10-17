@@ -4,7 +4,7 @@
 </p></h1> 
 <h3 align="center">BackEnd & FrontEnd & Mobile Developer</h3>
 <h3 align="center">DevOps</h3>
-
+<h3 align="center">SQL & NoSQL</h3>
 
 
 
