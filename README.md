@@ -6,7 +6,7 @@
 
   BackEnd & FrontEnd & Mobile</h3>
 <h3 align="center">DevOps</h3>
-<h3 align="center">SQL & NoSQL</h3>
+<h3 align="center">Database</h3>
 
 
 
